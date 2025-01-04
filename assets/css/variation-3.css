@@ -1,0 +1,663 @@
+.banner-bottom3 {
+    padding: 40px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    margin-top: 60px;
+    box-shadow: 0px 24px 100px 0px rgba(22, 25, 50, 0.07);
+}
+
+.banner-txt h2 {
+    max-width: 1413px;
+}
+
+#banner-txt1 h2 {
+    padding-top: 75px !important;
+    padding-bottom: 20px;
+}
+
+.banner-img-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.happy-customrs-variation-3 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.banner-txt-riht {
+    padding-left: 60px;
+}
+
+.Watch-demo2 a {
+    background: rgba(39, 35, 67, 1);
+    padding: 10px 20px;
+    color: white !important;
+    text-decoration: none !important;
+    border-radius: 50px;
+}
+
+.banner-txt p {
+    padding-top: 50px !important;
+}
+
+.variation-3-banner-btn {
+    padding-top: 10px;
+}
+
+.happy-customrs-text h2 {
+    font-family: PP Neue Montreal;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 76.8px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.happy-customrs-text p {
+    font-family: ABC Oracle Book Unlicensed Trial;
+    font-size: 24px;
+    font-weight: 350;
+    line-height: 35.64px;
+    color: rgba(0, 0, 0, 1);
+    padding-top: 10px;
+}
+
+.baneer-bottom-txt {
+    align-items: center !important;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.baneer-bottom-txt .banner-txt p {
+    max-width: unset !important;
+}
+
+.banner-txt p {
+    font-size: 28px !important;
+    line-height: 39.2px !important;
+    text-align: center !important;
+    padding-bottom: 20px;
+}
+
+.baneer-bottom-txt .banner-txt h2 {
+    font-family: PP Neue Montreal;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 83.2px;
+    text-align: center;
+    max-width: 966px;
+}
+
+.banner-img-container img {
+    width: 100%;
+}
+
+/* ====================DirtyShowers========= */
+.DirtyShowers {
+    background: rgba(240, 242, 243, 1);
+    padding: 0px 0px 80px 0px;
+}
+
+.DirtyShowers-card {
+    align-items: center;
+    text-align: center;
+    max-width: 475px;
+}
+
+.DirtyShowers-h2 {
+    padding-bottom: 100px;
+    text-align: center;
+    max-width: unset !important;
+}
+
+.banner-page1 {
+    padding-bottom: 120px;
+}
+
+.banner-txt11 {
+    padding-top: 15px;
+}
+
+.banner-txt12 {
+    padding-top: 25px;
+}
+
+.veriation-3-happy {
+    max-width: 1146px;
+    margin: 0 auto;
+    line-height: 59px !important;
+    padding-bottom: 10px !important;
+}
+
+/* ================"Goodbye-Acne=================== */
+
+.Goodbye-Acne {
+    padding: 120px 0px 120px 0px;
+}
+
+#Goodbye-Acneh2 {
+    padding: 0 !important;
+    text-align: left !important;
+    padding-bottom: 20px !important;
+    max-width: 915px !important;
+}
+
+/* ============Switch-Today-section-txt=== */
+.Acne-FreeSkin-left h2 {
+    line-height: 60px !important;
+    font-size: 51px;
+    padding-bottom: 30px;
+}
+
+.Acne-FreeSkin-left h3 {
+    padding-bottom: 20px !important;
+}
+
+.Acne-FreeSkin .row {
+    align-items: center;
+}
+
+.Acne-FreeSkin {
+    background: rgba(240, 242, 243, 1);
+    padding: 120px 0px 120px 0px;
+}
+
+.Acne-FreeSkin-left .phone-icon {
+    margin-top: 40px !important;
+}
+
+.Acne-FreeSkin-img {
+    margin-right: 30px;
+}
+
+/* ================== JourneyTOClear ================ */
+.JourneyTOClear {
+    background-image: url("/assets/images/journy-section-img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 37px 0px 176px 0px;
+}
+
+.JourneyTOClear-text {
+    max-width: 951px !important;
+}
+
+.JourneyTOClear-text h2 {
+    color: white !important;
+    text-align: left !important;
+    padding-bottom: 30px;
+}
+
+/* ===============video-section======= */
+.Afina-Difference {
+    background: rgba(240, 242, 243, 1);
+    padding: 0px 0px 120px 0px;
+}
+
+.video-custom-next-icon {
+    top: unset !important;
+    left: 51% !important;
+    /* margin-left:60px; */
+}
+
+.video-custom-prev-icon {
+    left: 46% !important;
+    top: unset !important;
+}
+
+.video-txt {
+    max-width: 1035px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.video-txt h4 {
+    max-width: 1194px !important;
+    text-align: center;
+}
+
+.variation-3-banner-btn {
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.video-carousel-img {
+    width: 408px !important;
+    height: 585px !important;
+    margin-right: 10px;
+}
+
+.Afina-Difference-btn {
+    text-align: center;
+    padding-top: 99px;
+}
+.baneer-trusted{
+    display: none !important;
+}
+footer{
+    margin-top: unset !important;
+}
+@media (max-width: 1719px) {
+    .banner-txt p {
+        font-size: 24px !important;
+        line-height: 33.2px !important;
+        padding-bottom: 10px
+    }
+
+    .happy-customrs-text h2,
+    .baneer-bottom-txt .banner-txt h2 {
+        font-size: 51px;
+        line-height: 58.8px;
+    }
+
+    .happy-customrs-text p,
+    .Watch-demo a {
+        font-size: 20px;
+        line-height: 32.64px;
+    }
+
+    #banner-txt1 h2 {
+        padding-top: 45px !important;
+        max-width: 1050px;
+    }
+
+    .banner-txt p {
+        padding-top: 40px !important;
+    }
+
+    .banner-page1 {
+        padding-bottom: 80px;
+    }
+
+    .DirtyShowers-h2 {
+        padding-bottom: 60px;
+    }
+
+    .Goodbye-Acne-right img,
+    .Acne-FreeSkin-img img {
+        width: 100%;
+    }
+
+    .Goodbye-Acne {
+        padding: 80px 0px 80px 0px;
+    }
+
+    .Acne-FreeSkin-left h2 {
+        font-size: 40px;
+        line-height: 50px !important;
+        padding-bottom: 20px;
+    }
+
+    .Acne-FreeSkin-left h3 {
+        padding-bottom: 10px !important;
+    }
+
+    .Acne-FreeSkin-left .phone-icon {
+        margin-top: 20px !important;
+    }
+
+    .Acne-FreeSkin {
+        padding: 80px 0px 80px 0px;
+    }
+
+    .JourneyTOClear-text {
+        max-width: 788px !important;
+    }
+
+    .JourneyTOClear {
+        padding: 69px 0px 164px 0px;
+    }
+
+    .video-carousel-img {
+        width: 303px !important;
+        height: 411px !important;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 1399px) {
+    #banner-txt1 h2 {
+        padding-top: 17px !important;
+        max-width: 815px;
+    }
+
+    .DirtyShowers {
+        padding: 0px 0px 40px 0px;
+    }
+
+    .banner-txt p {
+        font-size: 20px !important;
+        line-height: 27.2px !important;
+    }
+
+    .banner-txt p {
+        padding-top: 26px !important;
+    }
+
+    .happy-customrs-variation-3 {
+        padding-top: 34px;
+    }
+
+    .happy-customrs-text h2 {
+        font-size: 35px;
+        line-height: 29.8px;
+    }
+
+    .happy-customrs-text p,
+    .Watch-demo a {
+        font-size: 16px;
+        line-height: 27.64px;
+    }
+
+    .happy-img-group img {
+        width: 100%;
+    }
+
+    .banner-page1 {
+        padding-bottom: 60px;
+    }
+
+    .DirtyShowers-h2 {
+        padding-bottom: 40px;
+    }
+
+    .banner-txt12 {
+        padding-top: 35px;
+    }
+
+    .happy-customrs-text h2,
+    .baneer-bottom-txt .banner-txt h2 {
+        font-size: 44px;
+        line-height: 49.8px;
+    }
+
+    .Watch-demo a {
+        font-size: 18px !important;
+        line-height: 42.23px !important;
+    }
+
+    .Acne-FreeSkin {
+        padding: 60px 0px 60px 0px;
+    }
+
+    .Acne-FreeSkin-left h2 {
+        font-size: 34px;
+        line-height: 42px !important;
+    }
+
+    .Acne-FreeSkin-img {
+        margin-right: unset;
+    }
+
+    .JourneyTOClear-text {
+        max-width: 672px !important;
+    }
+
+    .JourneyTOClear {
+        padding: 34px 0px 118px 0px;
+    }
+
+    .veriation-3-happy {
+        max-width: 988px;
+        line-height: 50px !important;
+    }
+
+    .video-custom-prev-icon {
+        left: 45% !important;
+    }
+
+    .video-carousel-img {
+        width: 264px !important;
+        height: 360px !important;
+        margin-right: 2px;
+    }
+
+    .Afina-Difference-btn {
+        padding-top: 74px;
+    }
+}
+
+@media (max-width:1199px) {
+    #banner-txt1 h2 {
+        padding-top: 17px !important;
+        max-width: 657px;
+    }
+
+    .Acne-FreeSkin-left h2 {
+        font-size: 28px;
+        line-height: 34px !important;
+        padding-bottom: 5px;
+    }
+
+    .Acne-FreeSkin-left h3 {
+        padding-bottom: 5px;
+    }
+
+    .video-custom-prev-icon {
+        left: 45% !important;
+    }
+
+    .banner-txt p,
+    .Watch-demo a {
+        font-size: 16px !important;
+        line-height: 25.2px !important;
+    }
+
+    #Afina-tbn-3 {
+        font-size: 16px !important;
+        line-height: 19px !important;
+    }
+
+    .banner-txt p {
+        padding-bottom: 9px;
+    }
+
+    .happy-customrs-text h2 {
+        font-size: 28px;
+        line-height: 16.8px;
+    }
+
+    .happy-customrs-text p,
+    .Watch-demo a {
+        font-size: 13px;
+        line-height: 25.64px;
+    }
+
+    .happy-img-group img {
+        width: 97px;
+    }
+
+    .JourneyTOClear {
+        padding: 34px 0px 75px 0px;
+    }
+}
+
+@media (max-width:991px) {
+
+    .happy-customrs-variation-3,
+    .Acne-FreeSkin .row {
+        flex-direction: column;
+    }
+
+    .banner-page1 {
+        padding-bottom: 40px;
+    }
+
+    .happy-customrs-variation-3 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .Acne-FreeSkin h2 {
+        text-align: center !important;
+    }
+
+    .banner-bottom3 {
+        box-shadow: unset;
+    }
+
+    .Acne-FreeSkin-left h3,
+    .Acne-FreeSkin-left h4 {
+        text-align: center;
+    }
+
+    .happy-customrs-text {
+        order: 1;
+    }.baneer-trusted{
+        display: block !important;
+    }
+
+    .Watch-demo {
+        order: 2;
+    }
+
+    .happy-img-group {
+        order: 3;
+    }
+
+    .variation-3-banner-btn,
+    .happy-customrs-text h2,
+    .happy-customrs-text p {
+        text-align: center;
+    }
+
+    .veriation-3-happy {
+        line-height: 42px !important;
+    }
+
+    .Goodbye-Acne .row {
+        flex-direction: column-reverse;
+    }
+
+    .Goodbye-Acne {
+        padding: 40px 0px 60px 0px;
+    }
+
+    .DirtyShowers-card {
+        max-width: unset;
+    }
+
+    .Goodbye-Acne-right img,
+    .Acne-FreeSkin-img img {
+        padding: 35px 0;
+    }
+
+    .banner-txt-riht {
+        padding-left: unset;
+    }
+
+    .banner-img2 img {
+        margin-bottom: 15px;
+    }
+
+    .Acne-FreeSkin {
+        padding: 40px 0px 40px 0px;
+    }
+
+    .baneer-bottom-txt .banner-txt h2 {
+        font-size: 35px;
+        line-height: 45.8px;
+    }
+
+    .JourneyTOClear-text {
+        max-width: 425px !important;
+    }
+
+    .video-custom-prev-icon {
+        left: 42% !important;
+    }
+
+    .outshines-section-container {
+        padding: 227px 0px 62px 0px !important;
+    }
+
+    .baneer-trusted {
+        justify-content: center;
+        display: flex !important;
+    }
+
+    .banner-bottom3 {
+        padding: unset;
+    }
+    
+    .happy-customrs-variation-3 {
+        gap: 26px;
+    }
+}
+
+@media (max-width:768px) {
+    .Goodbye-Acne-right img {
+        padding: 21px 0;
+        height: 341px;
+        border-radius: 16px;
+    }
+
+    .Acne-FreeSkin-left .phone-icon {
+        margin-top: unset !important;
+    }
+
+    .FreeSkin-img img {
+        padding: 22px 0;
+    }
+
+    .veriation-3-happy {
+        line-height: 33px !important;
+    }
+
+    .outshines-section-container {
+        padding: 227px 0px 42px 0px !important;
+    }
+
+    .video-custom-prev-icon {
+        left: 39% !important;
+    }
+
+    .shop-now-button a {
+        font-size: 18px !important;
+        line-height: 19.2px !important;
+    }
+
+    .banner-page-container .row .col-5 {
+        width: 100% !important;
+    }
+    .happy-customrs-variation-3 {
+        gap:10px;
+    }
+}
+
+
+@media (max-width:576px) {
+    .DirtyShowers {
+        padding: 40px 0px 60px 0px !important;
+    }
+
+    .Goodbye-Acne {
+        padding: 40px 0px 40px 0px;
+    }
+
+    .DirtyShowers-card img {
+        width: 114px;
+    }
+
+    .JourneyTOClear {
+        background-image: url(/assets/images/journy-section-img2.png);
+    }
+
+    .JourneyTOClear {
+        padding: 60px 0px 60px 0px;
+    }
+
+    .outshines-section-container {
+        padding: 227px 0px 22px 0px !important;
+    }
+
+    .video-custom-prev-icon {
+        left: 37% !important;
+    }
+
+}

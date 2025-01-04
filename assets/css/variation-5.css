@@ -1,0 +1,923 @@
+body {
+    background-color: rgba(0, 0, 0, 1) !important;
+}
+
+/* ============baner-5============= */
+.banner-page::after {
+    background: rgba(36, 36, 36, 1) !important;
+}
+
+#baneer-trusted1 {
+    display: flex !important;
+    padding-top: 30px;
+    gap: 16px;
+}
+
+#baneer-trusted1 p {
+    padding-top: unset !important;
+    font-family: Gilroy-Medium;
+    font-size: 24px;
+    font-weight: 400;
+    opacity: 80%;
+}
+
+.baneer-card-txt h2,
+.baneer-card-txt p,
+.banner-page4bottomTxt p,
+.trust-percentage h5,
+.EXPERTS-txt h6 {
+    opacity: 80%;
+}
+
+.banner-page-top {
+    display: flex;
+}
+
+.banner-txt h2 {
+    max-width: 1182px !important;
+}
+
+.banner-page,
+.afinaRisk-section,
+.Outshines-section,
+.Secretly-Harming {
+    background-color: unset !important;
+}
+
+#banner-bottom {
+    bottom: -39px !important;
+}
+
+#afinaRisk-section5 {
+    padding: 10px 0px 50px 0px !important;
+}
+
+.banner-txt h2,
+.banner-txt p,
+.Watch-demo a,
+.baneer-card-txt h2,
+.baneer-card-txt p,
+#baneer-trusted1 p,
+.Healthy-txt1 h2,
+.text-p,
+.Copycats-Cardcontainer h3,
+.Copycats-Cardcontainer h6,
+.Transforms-txt h2,
+.Transforms-txt h3 {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.Healthy-txt1 h2 {
+    max-width: 996px !important;
+}
+
+.banner-page4bottomTxt p {
+    padding-top: unset !important;
+}
+
+.banner-page4bottomTxt {
+    padding: 42px 0px 20px 0px !important;
+}
+
+.right-sign {
+    background: rgba(255, 255, 255, 1) !important;
+}
+
+.Copycats-Cardcontainer {
+    all: unset !important;
+}
+
+.right-sign svg {
+    fill: rgba(39, 35, 67, 1) !important;
+}
+
+.banner-btn {
+    display: flex !important;
+    align-items: center !important;
+    gap: 20px;
+}
+
+.banner-bottom {
+    background: rgba(36, 36, 36, 1) !important;
+    box-shadow: 0px 24px 100px 0px rgba(22, 25, 50, 0.07) !important;
+}
+
+.banner5-h2 {
+    font-size: 80px !important;
+    font-weight: 500 !important;
+    line-height: 97.2px !important;
+}
+
+#variation5-p {
+    font-size: 28px !important;
+    line-height: 39.8px !important;
+    text-align: left !important;
+    max-width: unset !important;
+    padding-top: 30px !important;
+    padding-bottom: unset !important;
+    opacity: 80%;
+}
+
+.afinaRisk-section {
+    padding: 80px 0px 0px 0px !important;
+}
+
+.Copycats-Cardcontainer h3,
+.Copycats-Cardcontainer h6 {
+    text-align: left !important;
+    opacity: 80%;
+}
+
+.right-sign svg {
+    width: 26.37px !important;
+    height: 20.54px !important;
+    fill: rgba(255, 235, 2, 1);
+    position: relative;
+    bottom: 3px;
+    right: 4px;
+}
+
+.Copycats-Img img {
+    width: 100% !important;
+}
+
+.Copycats-Cardcontainer h6 {
+    padding-top: 10px;
+}
+
+/* ================ Trust Afina for Clearer Skin ============ */
+.TrustClear-skin {
+    padding: 120px 0;
+}
+
+.TrustClear-skin-btn {
+    text-align: center;
+    padding-top: 60px;
+}
+
+#TrustClearh2 {
+    max-width: unset !important;
+}
+
+.TrustClear-skin-left {
+    max-width: 806px;
+}
+
+.TrustClear-skinImg {
+    margin-left: 60px;
+    padding-top: 30px;
+}
+
+.TrustClear-skinImg img {
+    width: 100%;
+}
+
+.TrustClear-skin_text {
+    padding-left: 20px;
+}
+
+.TrustClear-skin_text p {
+    font-family: PP Neue Montreal;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    color: rgba(255, 255, 255, 1);
+    opacity: 90%;
+}
+
+.TrustClear-skin .row {
+    align-items: center;
+}
+
+.TrustClear-skin_text p span {
+    opacity: 70% !important;
+    font-size: 24px;
+    font-weight: 400 !important;
+    line-height: 33.6px;
+    text-align: left;
+    font-style: inherit !important;
+}
+
+.TrustClearp {
+    opacity: 70%;
+    padding-bottom: 20px;
+}
+
+.TrustClear-skin_text.point {
+    width: 2px;
+    height: 2px;
+    background-color: rgb(214, 191, 191) !important;
+}
+
+.TrustClear-skin_text ol {
+    list-style-type: square;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+
+/* =============== BACKED BY SCIENCE & TRUSTED BY EXPERTS ========= */
+.EXPERTS-txt {
+    color: rgba(255, 255, 255, 1);
+}
+
+.EXPERTS-txt h6 {
+    font-family: PP Neue Montreal;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 50.4px;
+    text-align: center;
+    max-width: 1070px;
+    font-family: inherit;
+    margin: 0 auto;
+}
+
+.trust-percentage h4 {
+    font-family: PP Neue Montreal;
+    font-size: 160px;
+    font-weight: 500;
+    line-height: 208px;
+    text-align: center;
+}
+
+.trust-percentage h5 {
+    font-family: PP Neue Montreal;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 41.6px;
+    max-width: 524px;
+    font-family: inherit;
+    text-transform: capitalize;
+    padding-top: 25px;
+}
+
+.trust-percentage {
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.EXPERTS-txt h2 {
+    font-family: PP Neue Montreal;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 83.2px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.EXPERTS-Section {
+    padding: 20px 0px 60px 0px !important;
+}
+
+.EXPERTS-txt-btn {
+    text-align: center;
+}
+
+/* ================ Outshines-section ============= */
+.w-text,
+.video-txt h3 {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.Outshines-card p,
+.Outshines-card h6 {
+    color: unset !important;
+}
+
+#Outshines5-h2 {
+    max-width: unset !important;
+    padding: unset !important;
+}
+
+.icon-w {
+    background-color: rgba(255, 255, 255, 1) !important;
+}
+
+/* ================ .Afina-Difference ==================== */
+.Afina-Difference {
+    padding: 30px 0px 120px 0px !important;
+}
+
+#Afina-DifferenceH2 {
+    max-width: unset !important;
+    padding-bottom: unset !important;
+}
+
+#h2-txt {
+    padding-bottom: 30px !important;
+}
+
+.Secretly-Harming-left P {
+    padding-bottom: 3px !important;
+}
+
+.Healthy-txt1 h4 {
+    font-family: ABC Oracle Book Unlicensed Trial;
+    font-size: 32px;
+    font-weight: 350;
+    line-height: 44.8px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 30px 0px 40px 0px;
+    opacity: 0.7;
+}
+
+.Secretly-Harming-left P,
+.overlooking-right p,
+.Transforms-txt h2,
+.Transforms-txt h4,
+.Filtered-Shower-right h4,
+.Filtered-Shower-right h4 span,
+.Filtered-Shower-right p,
+.Filtered-Shower-right h5 span,
+.Filtered-Shower-right h6,
+.happy-headeing p {
+    opacity: 0.7;
+}
+
+.happy-card p {
+    opacity: 0.9;
+}
+
+.Healthy-txt1 ul {
+    color: rgba(255, 255, 255, 1) !important;
+    opacity: 0.7;
+}
+
+.Secretly-Harming-left ul,
+.Secretly-Harming-left P {
+    max-width: 889px !important;
+}
+
+.Transforms-card-txt h2,
+.Filtered-Shower h3,
+.Filtered-Shower-right h4,
+.Filtered-Shower-right h4 span,
+.Filtered-Shower-right h5 span,
+.Filtered-Shower-right h5 span strike,
+.Filtered-Shower-right h6,
+.happy-headeing h2,
+.happy-headeing h3,
+.happy-card p {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.Transforms-Cardcontainer {
+    background: rgba(36, 36, 36, 1) !important;
+}
+
+.Secretly-Harming-left {
+    padding-right: 50px;
+}
+
+/* ============ overlooking-section =================== */
+.overlooking-section {
+    padding: 120px 0;
+}
+
+.overlooking-section .row {
+    align-items: center;
+}
+
+.overlooking-right {
+    margin-left: 57px;
+}
+
+.overlooking-right h2 {
+    max-width: 822px !important;
+    margin: unset !important;
+}
+
+.overlooking-right-btn {
+    padding-top: 30px;
+}
+
+.overlooking-right p {
+    padding-top: 20px;
+}
+
+.container .transform-img::before {
+    background: rgba(240, 242, 243, 0.15) !important;
+}
+
+.accordion-butto,
+.happy-customers {
+    background-color: unset !important;
+}
+
+.Checkout-btn a {
+    color: rgba(255, 235, 2, 1) !important;
+}
+
+.Checkout-btn {
+    border: 1px solid rgba(255, 255, 255, 1) !important;
+}
+
+.accordion-body,
+.accordion-button {
+    background-color: black !important;
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.happy-headeing h3 {
+    max-width: 773px !important;
+}
+
+.happy-customers {
+    padding: 120px 0px 60px 0px !important;
+}
+
+.happy-card {
+    box-shadow: 0px 8px 40px 0px rgba(39, 35, 67, 0.08) !important;
+    background: rgba(36, 36, 36, 1) !important;
+
+}
+
+.happy-card-left h2 {
+    color: rgba(255, 235, 2, 1) !important;
+}
+
+.happy-card-left p {
+    color: rgba(154, 156, 170, 1) !important;
+    ;
+}
+
+.happy-card-bottom {
+    padding: 17px 0;
+    justify-content: space-between;
+}
+
+.Journey-p {
+    text-align: left !important;
+    padding-bottom: 30px;
+}
+
+.JourneyTOClear {
+    background-image: url(/assets/images/shower-game.png) !important;
+    padding: 1% 0px 146px 0px !important;
+}
+
+@media (max-width: 1829px) {
+    .banner5-h2 {
+        font-size: 73px !important;
+        line-height: 89.2px !important;
+    }
+}
+
+@media (max-width:1719px) {
+    .banner5-h2 {
+        font-size: 68px !important;
+        line-height: 86.2px !important;
+    }
+
+    .TrustClear-skin {
+        padding: 80px 0;
+    }
+
+    #variation5-p {
+        font-size: 24px !important;
+        line-height: 33.8px !important;
+        padding-top: 18px !important;
+    }
+
+    .EXPERTS-txt h2 {
+        font-size: 52px;
+        line-height: 72.2px;
+        padding-bottom: 24px;
+    }
+
+    .EXPERTS-txt h6 {
+        font-size: 28px;
+        line-height: 39.4px;
+        max-width: 800px;
+    }
+
+    .TrustClear-skin-btn {
+        padding-top: 11px;
+    }
+
+    .trust-percentage h4 {
+        font-size: 142px;
+        line-height: 187px;
+    }
+
+    .trust-percentage h5 {
+        font-size: 28px;
+        line-height: 34.6px;
+        max-width: 517px;
+    }
+
+    .outshines-section-container {
+        padding: 295px 105px 80px 110px !important;
+    }
+
+    .Outshines-section {
+        padding-top: 64px !important;
+    }
+
+    .Outshines-cardimg {
+        position: absolute;
+        bottom: 56% !important;
+        left: 10% !important;
+    }
+
+    .overlooking-section {
+        padding: 90px 0;
+    }
+
+    .JourneyTOClear {
+        padding: 1% 0px 101px 0px !important;
+    }
+
+    .overlooking-sectionImg img {
+        width: 100%;
+    }
+
+    .Secretly-Harming-left {
+        padding-right: unset !important;
+    }
+
+    .Secretly-Harming-right {
+        margin-left: unset !important;
+    }
+
+    .Secretly-Harming-left P {
+        padding-bottom: unset !important;
+    }
+
+    .overlooking-right p {
+        padding-top: unset;
+    }
+
+    .overlooking-right-btn {
+        padding-top: 7px;
+    }
+
+    .overlooking-right {
+        margin-left: 20px;
+    }
+
+    .overlooking-right h2 {
+        max-width: 664px !important;
+    }
+}
+
+@media (max-width: 1580px) {
+    .banner5-h2 {
+        font-size: 54px !important;
+        line-height: 71.2px !important;
+    }
+
+    #baneer-trusted1 {
+        padding-top: 16px;
+    }
+
+    #variation5-p {
+        font-size: 22px !important;
+        line-height: 28.8px !important;
+        padding-top: 14px !important;
+    }
+}
+
+@media (max-width: 1399px) {
+    .banner5-h2 {
+        font-size: 50px !important;
+        line-height: 62.2px !important;
+    }
+
+    #variation5-p,
+    #baneer-trusted1 p {
+        font-size: 19px !important;
+        line-height: 25.8px !important;
+        padding-top: 5px !important;
+    }
+
+    .Healthy-txt1 h2 {
+        max-width: 618px !important;
+    }
+
+    #DontFall {
+        font-size: 38px !important;
+    }
+
+    .solution-txt h2 {
+        font-size: 15px !important;
+        line-height: 23.2px;
+    }
+
+    .texp-2 {
+        max-width: 705px !important;
+    }
+
+    .TrustClear-skin {
+        padding: 40px 0;
+    }
+
+    .EXPERTS-txt h2 {
+        font-size: 44px;
+        line-height: 54.2px;
+        padding-bottom: 5px;
+    }
+
+    .EXPERTS-Section {
+        padding: 50px 0px 60px 0px !important;
+    }
+
+    .trust-percentage h5 {
+        font-size: 28px;
+        line-height: 34.6px;
+        max-width: 517px;
+    }
+
+    .trust-percentage h4 {
+        font-size: 120px;
+        line-height: 161px;
+    }
+
+    .outshines-section-container {
+        padding: 160px 60px 80px 81px !important;
+    }
+
+    .Outshines-cardimg {
+        bottom: 63% !important;
+    }
+
+    .trust-percentage h5 {
+        font-size: 23px;
+        line-height: 28.6px;
+        max-width: 389px;
+    }
+
+    .Copycats-Cardcontainer h6 {
+        padding-top: unset;
+    }
+
+    .TrustClear-skin_text p {
+        font-size: 22px;
+        line-height: 29.2px;
+    }
+
+    .TrustClear-skin_text p span {
+        font-size: 18px;
+        line-height: 22.6px;
+    }
+
+    .TrustClearp {
+        padding-bottom: unset;
+    }
+
+    .TrustClear-skin_text ol {
+        font-size: 22px;
+    }
+
+    .Outshines-section {
+        padding-top: 60px !important;
+    }
+
+    .TrustClear-skinImg {
+        margin-left: unset;
+        padding-top: unset;
+    }
+
+    .TrustClear-skin-btn {
+        padding-top: 30px;
+    }
+
+    .Afina-Difference {
+        padding: 30px 0px 80px 0px !important;
+    }
+
+    .Secretly-Harming-left P {
+        max-width: 570px !important;
+    }
+
+    .happy-customers {
+        padding: 80px 0px 60px 0px !important;
+    }
+
+    .Healthy-txt1 h4 {
+        font-size: 24px;
+        line-height: 30.8px;
+        max-width: 849px;
+        padding: 10px 0px 20px 0px;
+    }
+
+}
+
+@media (max-width:1199px) {
+    .banner5-h2 {
+        font-size: 45px !important;
+        line-height: 54.2px !important;
+    }
+
+    #variation5-p,
+    #baneer-trusted1 p {
+        font-size: 17px !important;
+        line-height: 23.8px !important;
+        padding-top: 2px !important;
+    }
+
+    .outshines-section-container {
+        padding: 155px 37px 42px 52px !important;
+    }
+
+    .Afina-Difference {
+        padding: 20px 0px 60px 0px !important;
+    }
+
+    .TrustClear-skin {
+        padding: 30px 0;
+    }
+
+    .Outshines-section {
+        padding-top: 40px !important;
+    }
+}
+
+@media (max-width: 1140px) {
+    .banner5-h2 {
+        font-size: 39px !important;
+        line-height: 44.2px !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .banner-bottom-card {
+        background: rgba(36, 36, 36, 1) !important;
+    }
+
+    .banner-bottom {
+        background: unset !important;
+    }
+
+    .banner-left img {
+        height: 471px !important;
+        border-radius: 6px;
+        padding-bottom: 39px;
+    }
+
+    #variation5-p {
+        text-align: center !important;
+    }
+
+    .banner-btn {
+        gap: 0px;
+        flex-direction: column;
+    }
+
+    #baneer-trusted1 {
+        display: none !important;
+    }
+
+    .right-sign svg {
+        width: 17.37px !important;
+        height: 15.54px !important;
+    }
+
+    .Copycats-Img img {
+        padding: 40px 0px 10px 0px !important;
+        height: 300px;
+    }
+
+    #DontFall {
+        font-size: 30px !important;
+    }
+
+    .Copycats-Cardcontainer h6 {
+        font-size: 16px !important;
+        line-height: 19.6px;
+    }
+
+    #afinaRisk-section5 {
+        padding: 10px 0px 0px 0px !important;
+    }
+
+    .TrustClear-skin .row {
+        flex-direction: column-reverse;
+    }
+
+    #TrustClearh2 {
+        font-size: 40px !important;
+    }
+
+    .TrustClear-skinImg img {
+        padding-bottom: 27px;
+    }
+
+    .TrustClearp,
+    .overlooking-right p {
+        text-align: center !important;
+    }
+
+    .EXPERTS-txt h2 {
+        font-size: 39px;
+        line-height: 46.2px;
+        padding-bottom: 5px;
+    }
+
+    #top-h2 {
+        color: white !important;
+        text-align: center !important;
+    }
+
+    .trust-percentage h4 {
+        font-size: 101px;
+        line-height: 130px;
+    }
+
+    .Secretly-Harming .row .col-7,
+    .Secretly-Harming .row .col-5,
+    .overlooking-section .row .col-5,
+    .overlooking-section .row .col-7 {
+        width: 100% !important;
+    }
+
+    .overlooking-section .row {
+        flex-direction: column;
+    }
+
+    #Afina-DifferenceH2 {
+        padding-top: 10px !important;
+    }
+
+    .overlooking-section .row .col-5 h2 {
+        color: white !important;
+        text-align: center !important;
+    }
+
+    .overlooking-sectionImg img {
+        width: 100%;
+        padding: 10px 0px 40px 0px;
+    }
+
+    .overlooking-right-btn {
+        text-align: center !important;
+    }
+
+    .overlooking-section {
+        padding: 57px 0;
+    }
+
+    .AddtoCart,
+    .Checkout-btn {
+        display: block !important;
+    }
+
+    .Filtered-Shower-right h2 {
+        padding: unset !important;
+        margin-top: 30px;
+    }
+    .happy-customers {
+        padding: 40px 0px 60px 0px !important;
+    }
+    .JourneyTOClear {
+        padding: 1% 0px 46px 0px !important;
+    }
+}
+@media (max-width: 768px) {
+    .Afina-Difference, .Transforms-section {
+        padding: 40px 0px 0px 0px !important;
+    }
+    .banner-left img{
+        height: unset !important;
+    }
+    .overlooking-section {
+        padding: 27px 0;
+    }
+    .Outshines-cardimg {
+        bottom: 49% !important;
+    }
+    .trust-percentage{
+        flex-direction: column;
+        gap: 0;
+    }
+    .trust-percentage h5{
+        padding-top: 0;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .EXPERTS-txt h2 {
+        font-size: 28px;
+        line-height: 38.2px;
+        padding-bottom: 0px;
+    }
+    .EXPERTS-txt h6 {
+        font-size: 24px;
+        line-height: 30.4px;
+        max-width: 800px;
+    }    .trust-percentage h5 {
+        font-size: 20px;
+        line-height: 26.6px;
+        max-width: 385px;
+    }
+    #TrustClearh2 {
+        font-size: 28px !important;
+    }    .TrustClear-skin {
+        padding: 0px 0;
+    }
+    .TransformsImg img{
+        width: 40px !important;
+    }
+}

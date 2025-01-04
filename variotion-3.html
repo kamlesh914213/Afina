@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./assets/css/variation-3.css">
+    <link rel="stylesheet" href="./assets/css/variation-2.css">
+    <link rel="stylesheet" href="./assets/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+        integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.theme.default.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lexend:wght@100..900&family=Luxurious+Roman&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Quintessential&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-section ">
+                <div class="top-bartxt">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                        <path
+                            d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z"
+                            fill="#FFFFFF" />
+                    </svg>
+                    <h1>90-Day Risk-Free Trial! Get Your Money Back If You’re Not Satisfied</h1>
+                </div>
+                <div class="nav-top">
+                    <nav class="navbar navbar-expand">
+                        <div class="collapse navbar-collapse">
+                            <ul class="navbar-nav mr-auto">
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Eng
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="#">Action</a>
+                                        <a class="dropdown-item" href="#">Another action</a>
+                                        <div class="dropdown-divider"></div>
+                                        <a class="dropdown-item" href="#">Something else here</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Faqs</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link " href="#">Need Help</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- header -->
+    <header>
+        <div class="container">
+            <div class="header-section">
+                <div class="logo-container">
+                    <!-- side-bar -->
+                    <div class=" mt-3 justify-content-between ">
+                        <div id="mySidepanel" class="sidepanel">
+                            <div class="logo logo2">
+                                <img src="./assets/images/main-logo.svg" alt="Logo">
+                            </div>
+                            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                            <ul>
+                                <li>
+                                    <a href="./variation-2.html">Variation-2</a>
+                                </li>
+                                <li>
+                                    <a href="./index.html">home</a>
+                                </li>
+                                <li>
+                                    <a href="./variation-4.html">Variation-4</a>
+                                </li>
+                                <li>
+                                    <a href="./variation-5.html">Variation-5</a>
+                                </li>
+                              
+                            </ul>
+
+                        </div>
+                        <button class="openbtn" onclick="openNav()">
+                            <img src="./assets/images/sidebar-img.svg" alt="Open Menu">
+                        </button>
+                    </div>
+                    <!-- main-logo -->
+                    <div class="logo">
+                        <a href="#"> <img src="./assets/images/main-logo.svg" alt="logo">
+                        </a>
+                    </div>
+                </div>
+                <div class="header-left">
+                    <div class="shop-now-button ">
+                        <a href="#">Shop Now</a>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                            <path
+                                d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                        </svg>
+                    </div>
+
+                    <div>
+                        <div class="shop-btn navbar-btn">
+                            <svg xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 576 512"><!--!Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+                                <path
+                                    d="M0 24C0 10.7 10.7 0 24 0L69.5 0c22 0 41.5 12.8 50.6 32l411 0c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3l-288.5 0 5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5L488 336c13.3 0 24 10.7 24 24s-10.7 24-24 24l-288.3 0c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5L24 48C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z" />
+                            </svg>
+                            <div class="conut-shop">
+                                <p>2</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- banner-page -->
+    <section class="banner-page1">
+        <div class="container">
+            <div class="banner-page-container">
+                <div class=" banner-txt " id="banner-txt1">
+                    <h2>Struggling with Acne? Your Shower Water Could Be the Culprit!</h2>
+                </div>
+                <div class="banner-img-container">
+                    <img class=" desktop" src="./assets/images/variation-3-baneer-img.png" alt="variation-3-baneer-img">
+                    <div class="phone banner-img2 ">
+                        <img src="./assets/images/before-img.png" alt="before-img">
+                        <img src="./assets/images/after-img.png" alt="before-img">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-5">
+                        <div class="happy-customrs-variation-3">
+                            <div class="happy-customrs-text desktop">
+                                <h2>1,50,000</h2>
+                                <p>Happy Customers</p>
+                            </div>
+                            <div class="happy-img-group">
+                                <a href="#"><img src="/assets/images/happy-img-group.png" alt="happy-img-group"></a>
+
+                            </div>
+                            <div class="Watch-demo Watch-demo2">
+                                <a href="#">Watch demo</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col ">
+                        <div class="banner-txt-riht">
+                            <div class="banner-txt">
+                                <p>Say goodbye to skin irritation, breakouts, and clogged pores. Afina’s advanced
+                                    filtration system eliminates chlorine, heavy metals, and other harmful contaminants
+                                    in your shower water.
+                                </p>
+                            </div>
+                            <div class="variation-3-banner-btn">
+                                <div class="shop-now-button phone-icon">
+                                    <a href="#">Try Afina Risk-Free for 90 Days</a>
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                        <path
+                                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="baneer-trusted .baneer-trusted12">
+                    <div class="right-sign"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path
+                                d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" />
+                        </svg></div>
+                    <p>Trusted by over 1,50,000 happy customers</p>
+                </div>
+                <div class="banner-bottom3">
+                    <div class="row">
+                        <div class="col-lg">
+                            <div class="banner-bottom-card">
+                                <div class="banner-card-img">
+                                    <img src="./assets/images/purity.svg" alt="purityimg">
+                                </div>
+                                <div class="baneer-card-txt">
+                                    <h2>Purity</h2>
+                                    <p>Removes 99% of Chlorine & Heavy Metals</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg">
+                            <div class="banner-bottom-card">
+                                <div class="banner-card-img">
+                                    <img src="./assets/images/purity2.png" alt="purityimg">
+                                </div>
+                                <div class="baneer-card-txt">
+                                    <h2>Glow</h2>
+                                    <p>Promotes Healthier Hair & Skin</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg">
+                            <div class="banner-bottom-card">
+                                <div class="banner-card-img">
+                                    <img src="./assets/images/purity3.png" alt="purityimg">
+                                </div>
+                                <div class="baneer-card-txt">
+                                    <h2>Simplicity</h2>
+                                    <p>Easy 5-Minute Installation</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg">
+                            <div class="banner-bottom-card">
+                                <div class="banner-card-img">
+                                    <img src="./assets/images/purity1.png" alt="purityimg">
+                                </div>
+                                <div class="baneer-card-txt">
+                                    <h2>Comfort</h2>
+                                    <p>Reduces Skin Irritation and Dryness</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="baneer-bottom-txt">
+                    <div class=" banner-txt">
+                        <h2>Is Your Shower Water Worsening Your Acne?</h2>
+                    </div>
+                    <div class="banner-txt">
+                        <p>Your skin could be reacting to more than just your skincare routine. Chlorine, heavy metals,
+                            and harsh minerals in your water might be the hidden cause of acne flare-ups. When you
+                            shower in unfiltered water, these impurities irritate your skin, clog pores, and make acne
+                            worse.
+                        </p>
+                    </div>
+                    <div class="variation-3-banner-btn">
+                        <div class="shop-now-button phone-icon">
+                            <a href="#">Try Afina Risk-Free for 90 Days</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                <path
+                                    d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- How Dirty Showers Ruin Your Skin -->
+    <section class="DirtyShowers">
+        <div class="container">
+            <div class="banner-txt">
+                <h2 class="DirtyShowers-h2">How Dirty Showers Ruin Your Skin</h2>
+            </div>
+            <div class="DirtyShowers-container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="DirtyShowers-card">
+                            <div><img src="/assets/images/DirtyShowers1.png" alt="DirtyShowers1"></div>
+                            <div class="banner-txt ">
+                                <p>Strips your skin of essential natural oils, leaving it dry, irritated, and prone to
+                                    conditions like eczema, psoriasis, and redness.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 ">
+                        <div class="DirtyShowers-card ">
+                            <div class="banner-txt11"><img src="/assets/images/DirtyShowers2.png" alt="DirtyShowers1">
+                            </div>
+                            <div class="banner-txt">
+                                <p>Causes random breakouts, rashes, and even accelerates skin aging.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="DirtyShowers-card">
+                            <div class="banner-txt12"><img src="/assets/images/DirtyShowers-3.png" alt="DirtyShowers1">
+                            </div>
+                            <div class="banner-txt">
+                                <p>Dilutes the impact of your skincare routine, making your products work less
+                                    effectively.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="variation-3-banner-btn phone">
+                <div class="shop-now-button phone-icon">
+                    <a href="#">Try Afina Risk-Free for 90 Days</a>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                        <path
+                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Goodbye to Acne  -->
+    <section class="Goodbye-Acne">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="banner-txt">
+                        <h2 id="Goodbye-Acneh2" class="desktop">Say Goodbye to Acne with Afina’s Pure Water</h2>
+                        <p id="Goodbye-Acneh2">Say goodbye to irritated, dry skin and hello to a clearer complexion with
+                            Afina. Our A-01
+                            Filtered Shower Head is here to transform your shower experience by filtering out the very
+                            elements that cause acne and skin breakouts.
+                        </p>
+                        <p id="Goodbye-Acneh2">
+                            With each shower, you’re giving your skin the nourishment it deserves—reducing irritation,
+                            preventing clogged pores, and locking in moisture for smoother, healthier skin.
+                        </p>
+                        <div class="variation-3-banner-btn ">
+                            <div class="shop-now-button phone-icon">
+                                <a href="#">Try Afina Risk-Free for 90 Days</a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                    <path
+                                        d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="banner-txt phone">
+                        <h2 id="Goodbye-Acneh2 ">Say Goodbye to Acne with Afina’s Pure Water</h2>
+                        <div class="pink-line PROBLEM-line phone"></div>
+
+                    </div>
+                    <div class="Goodbye-Acne-right"><img src="/assets/images/goodbye-scane.png" alt="goodbye-scane">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How Afina Transforms Your Water -->
+    <section class="Transforms-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-8">
+                    <div class="Transforms-txt">
+                        <h2 class="heading-h2">HOW IT WORKS</h2>
+                        <h3 class="heading-h3">How Afina Transforms Your Water</h3>
+                        <div class="pink-line"></div>
+                        <h4 class="text-p">Afina’s A-01 Filtered Shower Head uses advanced filtration to bring you
+                            cleaner, healthier
+                            water
+                            in just three simple steps:</h4>
+                        <div class="Transforms-Cardcontainer-card desktop">
+                            <div class="Transforms-Cardcontainer">
+                                <div class="TransformsImg">
+                                    <img src="./assets/images/nal1.svg" alt="nalImg">
+                                </div>
+                                <div class="Transforms-card-txt">
+                                    <h2> <span>1.</span>Unfiltered Water Enters</h2>
+                                    <p>Regular tap water filled with impurities enters the A-01 shower head system.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="Transforms-Cardcontainer">
+                                <div class="TransformsImg">
+                                    <img src="./assets/images/nal2.svg" alt="nalImg">
+                                </div>
+                                <div class="Transforms-card-txt">
+                                    <h2> <span>2.</span>Advanced Filtration Process</h2>
+                                    <p>Using Redox technology, specialized filter particles capture harmful substances,
+                                        converting contaminants like chlorine, heavy metals, and chemicals into clean,
+                                        pure water.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="Transforms-Cardcontainer">
+                                <div class="TransformsImg">
+                                    <img src="./assets/images/nal3.svg" alt="nalImg">
+                                </div>
+                                <div class="Transforms-card-txt">
+                                    <h2> <span>3.</span>Enjoy Clean, Clear Water</h2>
+                                    <p>The result is water that’s gentle on your skin and hair, enhancing your shower
+                                        into a truly refreshing experience.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="transform-btn desktop">
+                        <div class="shop-now-button phone-icon">
+                            <a href="#">Try Afina Risk-Free for 90 Days</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                <path
+                                    d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="transform-img">
+                        <img src="/assets/images/transform-img.png" alt="transformimg">
+                    </div>
+                </div>
+            </div>
+            <div class="phone Transforms-Cardcontainer-card-phone">
+                <div class="Transforms-Cardcontainer">
+                    <div class="TransformsImg">
+                        <img src="./assets/images/nal.svg" alt="nalImg">
+                    </div>
+                    <div class="Transforms-card-txt">
+                        <h2> <span>1.</span>Unfiltered Water Enters</h2>
+                        <p>Regular tap water, filled with impurities, enters the A-01 shower head system as
+                            usual.
+                        </p>
+                    </div>
+                </div>
+                <div class="Transforms-Cardcontainer">
+                    <div class="TransformsImg">
+                        <img src="./assets/images/nal.svg" alt="nalImg">
+                    </div>
+                    <div class="Transforms-card-txt">
+                        <h2> <span>2.</span>Advanced Filtration Process</h2>
+                        <p>Using Redox technology, specialized filter particles capture harmful substances, converting
+                            contaminants like chlorine, heavy metals, and chemicals into clean, pure water.
+                        </p>
+                    </div>
+                </div>
+                <div class="Transforms-Cardcontainer">
+                    <div class="TransformsImg">
+                        <img src="./assets/images/nal.svg" alt="nalImg">
+                    </div>
+                    <div class="Transforms-card-txt">
+                        <h2> <span>3.</span>Enjoy Clean, Clear Water</h2>
+                        <p>The result is water that’s gentle on your skin and hair, enhancing your shower into a truly
+                            refreshing experience.
+
+                    </div>
+                </div>
+                <div class="transform-btn2">
+                    <div class="shop-now-button phone-icon">
+                        <a href="#">Try Afina Risk-Free for 90 Days</a>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                            <path
+                                d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Outshines-section -->
+    <section class="Outshines-section">
+        <div class="container">
+            <div class="Healthy-txt1">
+                <h2 class="Outshines-sectionh2">Why Afina Outshines the Competition</h2>
+                <div class="pink-line phone variation-2-line"></div>
+            </div>
+            <div class="outshines-section-container">
+                <div class="Outshines-card left-border">
+                    <img class="Outshines-cardimg" src="/assets/images/Outshines-section-img.png" alt="">
+                </div>
+                <div class="Outshines-card pink-card afina-table2 table-top">
+                    <h2>AFINA</h2>
+                </div>
+                <div class="Outshines-card pink-card table-top">
+                    <h2>OTHER PRODUCTS</h2>
+                </div>
+                <div class="Outshines-card table-top">
+                    <p>Clinically Proven</p>
+                </div>
+                <div class="Outshines-card">
+                    <div class="icon"><img src="./assets/images/correct-sign.svg" alt="correct-sign"></div>
+                    <h6>Proven to reduce hair loss</h6>
+                </div>
+                <div class="Outshines-card">
+                    <div class="icon"><img src="./assets/images/wrong-sign.svg" alt="wrong-sign"></div>
+                    <h6> Not clinically tested</h6>
+                </div>
+                <div class="Outshines-card Outshines-card2">
+                    <p>Advanced Filtration</p>
+                </div>
+                <div class="Outshines-card Outshines-card2">
+                    <div class="icon"><img src="./assets/images/correct-sign.svg" alt="correct-sign"></div>
+                    <h6>American-made KDF-55</h6>
+                </div>
+                <div class="Outshines-card Outshines-card2">
+                    <div class="icon"><img src="./assets/images/wrong-sign.svg" alt="wrong-sign"></div>
+                    <h6>Basic filtration</h6>
+                </div>
+                <div class="Outshines-card">
+                    <p>Meets & Exceeds Standards</p>
+                </div>
+                <div class="Outshines-card">
+                    <div class="icon"><img src="./assets/images/correct-sign.svg" alt="correct-sign"></div>
+                    <h6>Surpasses NSF-177 Standards</h6>
+                </div>
+                <div class="Outshines-card">
+                    <div class="icon"><img src="./assets/images/wrong-sign.svg" alt="wrong-sign"></div>
+                    <h6>Bare minimum compliance</h6>
+                </div>
+                <div class="Outshines-card Outshines-card2">
+                    <p>Uninterrupted Water Flow</p>
+                </div>
+                <div class="Outshines-card Outshines-card2">
+                    <div class="icon"><img src="./assets/images/correct-sign.svg" alt="correct-sign"></div>
+                    <h6>No clogging, no pressure loss</h6>
+                </div>
+                <div class="Outshines-card Outshines-card2">
+                    <div class="icon"><img src="./assets/images/wrong-sign.svg" alt="wrong-sign"></div>
+                    <h6>Prone to clogging</h6>
+                </div>
+                <div class="Outshines-card table-bottom">
+                    <p>3rd-Party Tested</p>
+                </div>
+                <div class="Outshines-card table-bottom">
+                    <div class="icon"><img src="./assets/images/correct-sign.svg" alt="correct-sign"></div>
+                    <h6>Verified by multiple labs</h6>
+                </div>
+                <div class="Outshines-card table-bottom">
+                    <div class="icon"><img src="./assets/images/wrong-sign.svg" alt="wrong-sign"></div>
+                    <h6>Limited or no testing</h6>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Essential section -->
+
+    <section class=" Afina-Difference">
+        <div class="container">
+            <div class="Afina-Difference-section">
+                <div class="video-txt">
+                    <h3 class="heading-h3">See Why 1,50,000 users can’t stop Raving About Afina</h3>
+                    <h4 class="text-p">Experience the Afina difference through our community’s stories.
+                        Watch real
+                        customers
+                        share how the A-01 Filtered Shower Head transformed their showers and revitalized
+                        their
+                        skin and hair.</h4>
+                </div>
+                <div class="owl-carousel owl-theme video-carousel">
+                    <div class="item">
+                        <div class="video-carousel-img"><img src="./assets/images/video-carousel.png"
+                                alt="video-carousel"></div>
+                    </div>
+                    <div class="item">
+                        <div class="video-carousel-img"><img src="./assets/images/video-carousel2.png"
+                                alt="video-carousel"></div>
+                    </div>
+                    <div class="item">
+                        <div class="video-carousel-img"><img src="./assets/images/video-carousel3.png"
+                                alt="video-carousel"></div>
+                    </div>
+                    <div class="item">
+                        <div class="video-carousel-img"><img src="./assets/images/video-carousel.png"
+                                alt="video-carousel"></div>
+                    </div>
+                    <div class="item">
+                        <div class="video-carousel-img"><img src="./assets/images/video-carousel2.png"
+                                alt="video-carousel"></div>
+                    </div>
+                    <div class="item">
+                        <div class="video-carousel-img"><img src="./assets/images/video-carousel3.png"
+                                alt="video-carousel"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="Afina-Difference-btn">
+                <div class="shop-now-button phone-icon">
+                    <a href="#">Try Afina Risk-Free for 90 Days</a>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                        <path
+                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- A-01 Filtered Shower Head -->
+    <section class="Filtered-Shower">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg">
+                    <h3 class="heading-h3 phone" id="Buy-Now1">Buy Now</h3>
+                    <div class="Filtered-ShowerImg">
+                        <img src="./assets/images/shower-img.png" alt="shower-img">
+                    </div>
+                </div>
+                <div class="col-lg">
+                    <div class="Filtered-Shower-right">
+                        <h2 class="heading-h2">AFINA</h2>
+                        <h3 class="heading-h3">A-01 Filtered Shower Head</h3>
+                        <p class="text-p">The A-01 shower head uses powerful filtration to capture harmful substances in
+                            your water.
+                        </p>
+                        <h4>Select Color <span>Brushed Nickel</span></h4>
+                        <div class="select-color">
+                            <img src="/assets/images/select-color1.svg" alt="select-color">
+                            <img src="/assets/images/select-color2.svg" alt="select-color">
+                            <img src="/assets/images/select-color3.svg" alt="select-color">
+                        </div>
+                        <h5><span><strike>$216.00</strike></span> <span>$179.00</span></h5>
+                        <h6>incl. local Tax & Shipping.</h6>
+                        <div class="shop-now-button phone-icon phone buy-now">
+                            <a href="#">Buy Now</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                <path
+                                    d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                            </svg>
+                        </div>
+                        <div class="Filtered-Shower-phone-btn">
+                            <div class="shop-now-button">
+                                <a href="#">Buy Now</a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                    <path
+                                        d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="asked-questions-accourdian">
+                            <div class="accordionParent">
+                                <div class="accordion accordion-flush" id="accordionFlushExample">
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="flush-headingOne">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#flush-collapseOne"
+                                                aria-expanded="false" aria-controls="flush-collapseOne">
+                                                See product details
+                                            </button>
+                                        </h2>
+                                        <div id="flush-collapseOne" class="accordion-collapse collapse"
+                                            aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                            <div class="accordion-body">We have recruiters on the ground all over the
+                                                world who
+                                                help us find and screen the best local talent. Oh and also, a ton of
+                                                paid ads
+                                                .</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="Filtered-Shower-button">
+                            <div class="shop-now-button phone-icon AddtoCart">
+                                <a href="#">Add to Cart</a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                    <path
+                                        d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                                </svg>
+                            </div>
+                            <div class="shop-now-button Checkout-btn phone-icon">
+                                <a href="#">Checkout Now</a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                    <path
+                                        d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Happy Customers,Healthier Showers -->
+    <section class="happy-customers">
+        <div class="container">
+            <div class="happy-headeing">
+                <h2>TESTIMONIAL</h2>
+                <h3 class="heading-h3 veriation-3-happy">See How Afina Helped These Users Achieve Clearer, Healthier
+                    Skin</h3>
+                <p class="text-p">Discover what our customers love about Afina’s A-01 Filtered Shower Head!</p>
+                <div class="pink-line PROBLEM-line"></div>
+            </div>
+            <div class=" owl-carousel happy-bottom owl-theme">
+                <div class="item">
+                    <div class="happy-card">
+                        <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi nec massa
+                            tincidunt
+                            blandit et eu sem. Maecenas laoreet ultrices diam dignissim posuere. Aenean ultrices d</p>
+                        <div class="happy-card-bottom">
+                            <div class="happy-card-left">
+                                <img src="/assets/images/happys-img.svg" alt="/happys-img">
+                                <div class="happy-cardTxt">
+                                    <h2>
+                                        Kristin Watson
+                                    </h2>
+                                    <p>Fashion Designer</p>
+                                </div>
+                            </div>
+
+                            <div class="happ-right-img">
+                                <img src="/assets/images/happys-right.svg" alt="happys-right">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="happy-card">
+                        <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi nec massa
+                            tincidunt
+                            blandit et eu sem. Maecenas laoreet ultrices diam dignissim posuere. Aenean ultrices d</p>
+                        <div class="happy-card-bottom">
+                            <div class="happy-card-left">
+                                <img src="/assets/images/happys-img.svg" alt="/happys-img">
+                                <div class="happy-cardTxt">
+                                    <h2>
+                                        Kristin Watson
+                                    </h2>
+                                    <p>Fashion Designer</p>
+                                </div>
+                            </div>
+
+                            <div class="happ-right-img">
+                                <img src="/assets/images/happys-right.svg" alt="happys-right">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="happy-card">
+                        <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi nec massa
+                            tincidunt
+                            blandit et eu sem. Maecenas laoreet ultrices diam dignissim posuere. Aenean ultrices d</p>
+                        <div class="happy-card-bottom">
+                            <div class="happy-card-left">
+                                <img src="/assets/images/happys-img.svg" alt="/happys-img">
+                                <div class="happy-cardTxt">
+                                    <h2>
+                                        Kristin Watson
+                                    </h2>
+                                    <p>Fashion Designer</p>
+                                </div>
+                            </div>
+
+                            <div class="happ-right-img">
+                                <img src="/assets/images/happys-right.svg" alt="happys-right">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="happy-card">
+                        <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi nec massa
+                            tincidunt
+                            blandit et eu sem. Maecenas laoreet ultrices diam dignissim posuere. Aenean ultrices d</p>
+                        <div class="happy-card-bottom">
+                            <div class="happy-card-left">
+                                <img src="/assets/images/happys-img.svg" alt="/happys-img">
+                                <div class="happy-cardTxt">
+                                    <h2>
+                                        Kristin Watson
+                                    </h2>
+                                    <p>Fashion Designer</p>
+                                </div>
+                            </div>
+
+                            <div class="happ-right-img">
+                                <img src="/assets/images/happys-right.svg" alt="happys-right">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Here’s Why Afina is Your Best Choice for Acne-Free Skin -->
+    <section class="Acne-FreeSkin">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading-h3 phone">Here’s Why Afina is Your Best Choice for Acne-Free Skin</h2>
+                    <div class="pink-line PROBLEM-line phone"></div>
+                    <div class="Acne-FreeSkin-img"> <img src="/assets/images/free-scan.png" alt="/free-scan"></div>
+
+                </div>
+                <div class="col">
+                    <div class="Acne-FreeSkin-left">
+                        <h2 class="heading-h3 desktop">Here’s Why Afina is Your Best Choice for Acne-Free Skin</h2>
+                        <h3 class="text-p">Afina is designed with your skin in mind. It’s not just a showerhead; it’s a
+                            skincare solution. With over 99% of chlorine and contaminants filtered out, your skin will
+                            feel the difference after the first shower.
+                        </h3>
+                        <h4 class="text-p"> <span>Why wait?</span> Make the choice for better health and beauty.</h4>
+                        <div class="shop-now-button phone-btn1 laptop-btn1">
+                            <a href="#">Get Yours Today</a>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                <path
+                                    d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                            </svg>
+                        </div>
+                        <div class="variation-3-banner-btn">
+                            <div class="shop-now-button  phone-icon">
+                                <a id="Afina-tbn-3" href="#">Get Afina Now – Clear Skin Starts Today!</a>
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                    <path
+                                        d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Don’t Let Acne Hold You Back – Start Your Journey to Clear Skin with Afina Today!n -->
+    <section class="JourneyTOClear">
+        <div class="container">
+            <div class="JourneyTOClear-text">
+                <div class="baneer-bottom-txt">
+                    <div class=" banner-txt">
+                        <h2>Don’t Let Acne Hold You Back – Start Your Journey to Clear Skin with Afina Today!</h2>
+                    </div>
+                </div>
+                <div class="shop-now-button phone-icon">
+                    <a href="#">Try Afina Risk-Free for 90 Days</a>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                        <path
+                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- footer -->
+
+    <footer>
+        <div class="container">
+            <div class="footer-top">
+                <div class="footer-logo">
+                    <a href="#"><img src="/assets/images/logo-footer.svg" alt="logo-footer"></a>
+                </div>
+                <div class="footer-toptxt">
+                    <h2>Enigineered Clean</h2>
+                </div>
+            </div>
+            <h3 class="mystery-Offer">Get a mystery Offer delivered right now</h3>
+            <div class="footer-middle">
+                <div class="row">
+                    <div class="col-xl-4">
+                        <div class="subscribe-container">
+                            <input type="email" placeholder="Email Address">
+                            <button class="shop-now-button submit-btn">Submit <span><svg
+                                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="shop-icon">
+                                        <path
+                                            d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+                                    </svg></span></button>
+                        </div>
+                    </div>
+                    <div class="col-xl-8 footer-middle-link">
+                        <div class="row">
+                            <div class="col-lg">
+                                <h2 class="link-heading">Shop</h2>
+                                <div class="footer-link">
+                                    <ul>
+                                        <li><a href="#">The A-01</a></li>
+                                        <li><a href="#">Replacement Filters</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg">
+                                <h2 class="link-heading">Info</h2>
+                                <div class="footer-link">
+                                    <ul>
+                                        <li><a href="#">About us</a></li>
+                                        <li><a href="#">Science</a></li>
+                                        <li><a href="#">Science</a></li>
+                                        <li><a href="#">Blog</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg">
+                                <h2 class="link-heading">Shop</h2>
+                                <div class="footer-link">
+                                    <ul>
+                                        <li><a href="#">Contact Us</a></li>
+                                        <li><a href="#">Return Policy</a></li>
+                                        <li><a href="#">How to Install</a></li>
+                                        <li><a href="#">How to Replace</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg">
+                                <h2 class="link-heading">Social</h2>
+                                <div class="footer-link">
+                                    <ul>
+                                        <li><a href="#">Facebook</a></li>
+                                        <li><a href="#">Instagram</a></li>
+                                        <li><a href="#">TikTok</a></li>
+                                        <li><a href="#">Pinterest</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="footer-link">
+                    <ul>
+                        <li><a href="#"></a>Privacy Policy </li>
+                        <li><a href="#"></a>Terms & Condition </li>
+                    </ul>
+                </div>
+                <p><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                            <path
+                                d="M256 48a208 208 0 1 1 0 416 208 208 0 1 1 0-416zm0 464A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM199.4 312.6c-31.2-31.2-31.2-81.9 0-113.1s81.9-31.2 113.1 0c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9c-50-50-131-50-181 0s-50 131 0 181s131 50 181 0c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0c-31.2 31.2-81.9 31.2-113.1 0z" />
+                        </svg></span> 2024, Afina</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
+        integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="./assets/js/index.js"></script>
+</body>
+
+</html>

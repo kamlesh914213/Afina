@@ -1,0 +1,835 @@
+/* ==============banner-4============================ */
+.banner-page4-txt {
+    text-align: center;
+    padding: 60px 0px 40px 0px;
+}
+
+.banner-page4-img {
+    padding-bottom: 40px;
+}
+
+.banner-page4-txt h2 {
+    font-family: PP Neue Montreal;
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 93.6px;
+    color: rgba(232, 0, 0, 1);
+    margin: 0;
+}
+
+.ItsAfina {
+    color: rgba(39, 35, 67, 1) !important;
+    padding: 5px 30px;
+    text-transform: uppercase;
+    background: rgba(255, 235, 2, 1);
+    max-width: max-content;
+    margin: 0 auto !important;
+}
+
+.variation3-p {
+    font-family: ABC Oracle Book Unlicensed Trial;
+    font-size: 32px;
+    font-weight: 350;
+    line-height: 44.6px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.banner-page4-txt p {
+    padding-top: 30px;
+    font-size: 34px;
+    font-weight: 350;
+    line-height: 47.6px;
+}
+
+.banner-pageHappy {
+    background-image: url(/assets/images/baneer-4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 71px 0;
+}
+
+.banner-pageHappy-txt h2 {
+    font-family: PP Neue Montreal;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 83.2px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.banner-pageHappy-txt-bottom {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+}
+
+.banner-pageHappy-txtleft p {
+    font-family: ABC Oracle Book Unlicensed Trial;
+    font-size: 36px;
+    font-weight: 350;
+    line-height: 53.46px;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.banner-pageHappy-txt-right {
+    max-width: 439px;
+    padding: 30px 25px 28px 26px;
+    border: 4px;
+    border: 4px solid rgba(255, 255, 255, 1)
+}
+
+.banner-pageHappy-txt-right h2 {
+    font-size: 106.15px;
+    line-height: 137.99px;
+    text-align: center;
+}
+
+.banner-pageHappy-txt-right p {
+    font-family: PP Neue Montreal;
+    font-size: 31px;
+    line-height: 41.6px;
+    letter-spacing: -0.01em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.banner-pageHappy-txtleft {
+    padding-top: 192px;
+}
+
+.banner-page4bottomTxt {
+    padding: 42px 0px 60px 0px;
+}
+
+.banner-page4bottomTxt p {
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.banner-page4bottomTxt p,
+.banner-page4bottomTxt h2 {
+    text-align: center;
+}
+
+.variation4-btn {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+/* =====================Copycats-container================ */
+.Copycats-section {
+    padding: 120px 0px;
+    background: rgba(240, 242, 243, 1);
+}
+
+.Copycats-container {
+    text-align: center;
+}
+
+.Copycats-Cardcontainer {
+    padding: 24px;
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(217, 230, 237, 1);
+    max-width: 425px;
+}
+
+.Copycats-Cardcontainer h3 {
+    font-family: PP Neue Montreal;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 39.2px;
+    color: rgba(39, 35, 67, 1);
+    text-align: center;
+    padding: 20px 0px 5px 0px;
+}
+
+.Copycats-cards {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1318px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.Copycats-Cardcontainer h6 {
+    font-family: ABC Oracle Book Unlicensed Trial;
+    font-size: 24px;
+    font-weight: 350;
+    line-height: 33.6px;
+    text-align: center;
+    color: rgba(115, 115, 115, 1);
+}
+
+.texp-2 {
+    max-width: 1553px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+/* ===========Reviews-section==========*/
+.Reviews-section {
+    padding: 120px 0;
+}
+
+.Reviews-img-container {
+    display: flex;
+    max-width: 1320px;
+    justify-content: space-between;
+    margin: 0 auto;
+    gap: 52px;
+}
+
+.review-container {
+    max-width: unset !important;
+    text-align: center;
+}
+
+.review-container h3,
+.review-container p {
+    padding-bottom: 30px;
+}
+
+/* =======Outshines-section======= */
+.Outshines-section {
+    background: rgba(240, 242, 243, 1);
+    padding-top: 80px;
+}
+
+.Afina-Difference {
+    background-color: unset !important;
+}
+
+.card-white {
+    background: rgba(255, 255, 255, 1);
+    border-radius: 5px !important;
+}
+
+.AfinaDiffmax {
+    max-width: 1194px !important;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+/* ========== variation4-Difference =========== */
+.variation4-Difference {
+    background: rgba(240, 242, 243, 1);
+    padding: 120px 0;
+}
+
+.variation4-tsxt {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.variation4-tsxt p {
+    padding-top: 20px;
+}
+
+.variation4-btn {
+    text-align: center;
+    padding-top: 46px;
+}
+
+/* ============== Transforms-section ================== */
+.Transforms-section {
+    background-color: unset !important;
+}
+
+.transform-img::before {
+    background: rgba(240, 242, 243, 1) !important;
+}
+
+.Transforms-txt h3 {
+    max-width: 797px;
+}
+
+.Transforms-txt h3 {
+    line-height: 72px !important;
+}
+
+.AddtoCart button ,.buy-now button {
+    all: unset;
+}
+
+.productCard-btn {
+    font-family: Gilroy-SemiBold;
+    font-size: 28px !important;
+    font-weight: 400 !important;
+    line-height: 30.8px !important;
+}
+
+.shop-now-button:hover .productCard-btn {
+    color: white;
+}
+
+/* ========afinaRisk-section========== */
+
+.afinaRisk-section {
+    background: rgba(240, 242, 243, 1);
+    padding: 80px 0;
+}
+
+footer {
+    margin-top: unset !important;
+}
+
+@media (max-width: 1719px) {
+    .banner-page4-img img {
+        max-width: 120px;
+    }
+
+    .banner-page4-img {
+        padding-bottom: 30px;
+    }
+
+    .banner-page4-txt h2 {
+        font-size: 64px;
+        line-height: 83.6px;
+    }
+
+    .ItsAfina {
+        padding: 3px 20px;
+    }
+
+    .banner-page4-txt p {
+        padding-top: 20px;
+        font-size: 28px;
+        line-height: 36.6px;
+    }
+
+    .banner-pageHappy-txt h2 {
+        font-size: 56px;
+        line-height: 74.2px;
+    }
+
+    .banner-pageHappy {
+        padding: 51px 0;
+    }
+
+    .banner-pageHappy-txtleft p {
+        font-size: 28px;
+        line-height: 36.46px;
+    }
+
+    .banner-pageHappy-txt-right p {
+        font-size: 26px;
+        line-height: 33.6px;
+    }
+
+    .banner-pageHappy-txtleft {
+        padding-top: 136px;
+    }
+
+    .banner-pageHappy-txt-right {
+        max-width: 374px;
+        padding: 30px 20px 20px 20px;
+    }
+
+    .variation3-p {
+        font-size: 28px;
+        line-height: 37.6px;
+    }
+
+    .variation4-btn {
+        padding-top: unset;
+    }
+
+    .Copycats-section {
+        padding: 60px 0px 100px 0px;
+    }
+
+    .Healthy-txt1 h2 {
+        padding-bottom: 37px !important;
+    }
+
+    .Reviews-section,
+    .variation4-Difference {
+        padding: 80px 0;
+    }
+
+    .review-container h3,
+    .review-container p,
+    .variation4-tsxt {
+        padding-bottom: 20px;
+    }
+
+    .Outshines-section {
+        padding-top: 40px;
+    }
+
+    .variation4-Img img {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+
+    .Transforms-txt h3 {
+        max-width: 742px;
+        line-height: 57px !important;
+    }
+
+    .afinaRisk-section {
+        padding: 40px 0;
+    }
+
+    .banner-page4bottomTxt p,
+    .productCard-btn {
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .texp-2 {
+        max-width: 1053px;
+        padding-top: 0px;
+    }
+
+    .Healthy-txt1 h2 {
+        padding-bottom: 34px !important;
+    }
+}
+
+@media (max-width:1399px) {
+    .Reviews-img-container img {
+        max-width: 540px;
+    }
+
+    .Reviews-img-container {
+        gap: 20px;
+    }
+
+    .banner-page4-img img {
+        max-width: 100px;
+    }
+
+    .banner-page4-txt h2 {
+        font-size: 52px;
+        line-height: 67.6px;
+    }
+
+    .banner-page4-txt {
+        padding: 40px 0px 20px 0px;
+    }
+
+    .banner-page4-txt p {
+        font-size: 23px;
+        line-height: 29.6px;
+    }
+
+    .banner-page4-img {
+        padding-bottom: 20px;
+    }
+
+    .banner-pageHappy,
+    .Filtered-Shower {
+        padding: 41px 0 !important;
+    }
+
+    .banner-pageHappy-txt h2 {
+        font-size: 45px;
+        line-height: 58.2px;
+    }
+
+    .banner-pageHappy-txtleft p {
+        font-size: 24px;
+        line-height: 31.46px;
+    }
+
+    .banner-pageHappy-txt-right {
+        max-width: 308px;
+        padding: 30px 15px 25px 15px;
+    }
+
+    .banner-pageHappy-txtleft {
+        padding-top: 124px;
+    }
+
+    .banner-pageHappy-txt-right p {
+        font-size: 22px;
+        line-height: 29.6px;
+    }
+
+    .variation3-p {
+        font-size: 24px;
+        line-height: 32.6px;
+    }
+
+    .Copycats-section {
+        padding: 40px 0px 80px 0px;
+    }
+
+    .texp-2 {
+        max-width: 1053px;
+        padding-top: 0px;
+    }
+
+    .Copycats-Img img {
+        width: 100px;
+    }
+
+    .Copycats-Cardcontainer h3 {
+        font-size: 20px;
+        line-height: 29.2px;
+        padding: 15px 0px 5px 0px;
+    }
+
+    .productCard-btn {
+        font-size: 19px !important;
+        line-height: 24.6px !important;
+    }
+
+    .Copycats-Cardcontainer h6,
+    .productCard-btn {
+        font-size: 19px;
+        line-height: 24.6px;
+    }
+
+    .Copycats-Cardcontainer {
+        padding: 20px;
+        max-width: 352px;
+    }
+
+    .Reviews-section,
+    .variation4-Difference {
+        padding: 60px 0;
+    }
+
+    .review-container h3,
+    .review-container p,
+    .variation4-tsxt {
+        padding-bottom: 10px;
+    }
+
+    .pink-card {
+        margin-bottom: 10px !important;
+    }
+
+    .variation4-tsxt p {
+        padding-top: 10px;
+    }
+
+    .variation4-Img img {
+        padding-bottom: 25px;
+    }
+
+    .Transforms-txt h3 {
+        max-width: 635px;
+        line-height: 48px !important;
+    }
+
+    .happy-headeing h3 {
+        text-align: center !important;
+        padding: 0px 0px 0px 0px !important;
+    }
+
+    .happy-bottom {
+        padding-top: 10px !important;
+    }
+
+    .banner-page4bottomTxt p {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+
+    .afinaRisk-section {
+        padding: 20px 0;
+    }
+
+    .banner-page4bottomTxt {
+        padding: 32px 0px 40px 0px;
+    }
+
+    .happy-card p {
+        font-size: 14px !important;
+        line-height: 19px !important;
+    }
+}
+
+@media (max-width:1199px) {
+    .Reviews-img-container img {
+        max-width: 457px;
+    }
+
+    .Copycats-Img img,
+    .banner-page4-img img {
+        width: 80px;
+    }
+
+    .banner-pageHappy-txt-bottom {
+        padding-top: 20px;
+    }
+
+    .Copycats-section {
+        padding: 30px 0px 60px 0px;
+    }
+
+    .Reviews-section,
+    .variation4-Difference {
+        padding: 40px 0;
+    }
+
+    .banner-pageHappy-h2 {
+        font-size: 52px !important;
+        line-height: 67.6px !important;
+        letter-spacing: -0.01em !important;
+    }
+}
+
+@media (max-width:991px) {
+    .Reviews-img-container img {
+        max-width: 331px;
+    }
+
+    .banner-page4-txt h2 {
+        font-size: 44px;
+        line-height: 51.6px;
+        margin-bottom: 20px;
+    }
+
+    .banner-page4-txt p {
+        font-size: 18px;
+        line-height: 24.6px;
+    }
+
+    .banner-page4-txt {
+        padding: 20px 0px 10px 0px;
+    }
+
+    .banner-page4-img {
+        padding-bottom: 10px;
+    }
+
+    .banner-pageHappy-txt h2 {
+        font-size: 35px;
+        line-height: 42.2px;
+    }
+
+    .banner-pageHappy-txtleft p {
+        font-size: 20px;
+        line-height: 27.46px;
+    }
+
+    .banner-pageHappy-txt-right p {
+        font-size: 18px;
+        line-height: 23.6px;
+    }
+
+    .banner-pageHappy-txtleft {
+        padding-top: 106px;
+    }
+
+    .banner-pageHappy-txt-right {
+        max-width: 259px;
+        padding: 30px 15px 25px 15px;
+    }
+
+    .banner-txt h2,
+    .Healthy-txt1 h2,
+    .heading-h3,
+    .footer-toptxt h2 {
+        font-size: 30px;
+        line-height: 39.6px;
+    }
+
+    .variation3-p {
+        font-size: 18px;
+        line-height: 23.6px;
+    }
+
+    .Copycats-cards {
+        flex-direction: column;
+    }
+
+    .Copycats-Cardcontainer {
+        max-width: unset;
+        margin-bottom: 20px;
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        border-radius: 12px;
+        padding: 12px;
+    }
+
+    .Copycats-Cardcontainer h3 {
+        font-size: 16px;
+        line-height: 25.2px;
+    }
+
+    .Copycats-Cardcontainer h3 {
+        padding: unset;
+    }
+
+    .Copycats-Cardcontainer h6 {
+        font-size: 14px;
+        line-height: 19.6px;
+    }
+
+    .Copycats-Cardcontainer h3,
+    .Copycats-Cardcontainer h6 {
+        text-align: left;
+        margin: 0;
+    }
+
+    .Copycats-Img img {
+        width: 47px;
+    }
+
+    .Copycats-section {
+        padding: 42px 0px 40px 0px;
+    }
+
+    #DontFall {
+        padding-top: 10px !important;
+    }
+
+    .text-p,
+    .solution-txt h2 {
+        font-size: 14px;
+        line-height: 19.2px;
+    }
+
+    .transform-btn2 {
+        text-align: center;
+    }
+
+    .Afina-Difference,
+    .Transforms-section {
+        padding: 60px 0px 20px 0px !important;
+    }
+
+    .banner-page4bottomTxt {
+        padding: 10px 0px 40px 0px;
+    }
+
+    .variation-4-line {
+        margin-bottom: 20px !important;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width:768px) {
+    .Reviews-img-container {
+        gap: 20px;
+        overflow-x: hidden;
+    }
+
+    .Transforms-txt h3 {
+        padding-bottom: 15px;
+        max-width: 277px !important;
+    }
+
+    .Transforms-txt h3 {
+        line-height: 32px !important;
+    }
+
+    .banner-pageHappy-txtleft {
+        display: none;
+    }
+
+    .banner-pageHappy {
+        background-image: url(/assets/images/Transformations-phone.png);
+    }
+
+    .banner-pageHappy-txt-right {
+        max-width: 192px;
+        padding: 40px 15px 0px 15px;
+        margin-top: 251px;
+    }
+
+    .happy-customers {
+        padding: 0px 0px 40px 0px !important;
+    }
+
+    .variation4-btn {
+        padding-top: unset;
+        flex-direction: column;
+    }
+
+    .Watch-demo a {
+        background: rgba(39, 35, 67, 1);
+        padding: 8px 16px 8px 16px;
+        border-radius: 81px;
+        color: white !important;
+        text-decoration: none !important;
+    }
+}
+
+@media (max-width:576px) {
+    .banner-page4-txt h2 {
+        font-size: 36px;
+        line-height: 39.6px;
+        margin-bottom: 12px;
+    }
+
+    .banner-page4-txt p {
+        font-size: 16px;
+        line-height: 22.4px;
+        padding-top: 12px;
+    }
+
+    .banner-page4-txt {
+        padding: 10px 0px 10px 0px;
+    }
+
+    .variation3-p {
+        font-size: 16px;
+        line-height: 22.4px;
+    }
+
+    .Copycats-section {
+        padding: 22px 0px 20px 0px;
+    }
+
+    .Copycats-cards {
+        padding-top: 20px;
+    }
+
+    .Copycats-Cardcontainer {
+        margin-bottom: 10px;
+    }
+
+    .Reviews-section,
+    .variation4-Difference {
+        padding: 30px 0;
+    }
+
+    .Reviews-img-container img {
+        max-width: 313px;
+    }
+
+    .Outshines-section {
+        padding-top: 20px;
+    }
+
+    .Transforms-card-txt p {
+        font-size: 12px !important;
+        line-height: 16.8px !important;
+    }
+
+    .Transforms-Cardcontainer {
+        padding: 12px !important;
+        border-radius: 16px !important;
+    }
+
+    .banner-pageHappy,
+    .Filtered-Shower {
+        padding: 20px 0 !important;
+    }
+
+    .banner-page4bottomTxt {
+        padding: 2px 0px 10px 0px;
+    }
+
+}
+
+@media (max-width:480px) {
+    .banner-page4-txt h2 {
+        font-size: 32px;
+        line-height: 39.6px;
+    }
+
+
+}
